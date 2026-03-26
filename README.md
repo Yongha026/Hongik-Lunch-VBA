@@ -1,7 +1,7 @@
 Hongik Lunch
 ===
 
-[썸네일](./imgs/thumbnail.jpg)
+![썸네일](./imgs/thumbnail.jpg)
 
 **This project is Vibe Coded. Only God and Gemini knows how this works.**
 
