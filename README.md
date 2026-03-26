@@ -31,7 +31,12 @@ VBAProject에 우클릭 -> 삽입 -> 모듈
 이름 **MenuBox** 로 설정
 
 ### 4. 실행
+
+<span style="color:rgb(217, 255, 0)">앞에 해두면 다음부터는 이 부분만 하면 됩니다!</span>
+
 Alt+F8 -> UpdateMenu -> 실행(Alt+R)
+
+
 
 
 ## Others
