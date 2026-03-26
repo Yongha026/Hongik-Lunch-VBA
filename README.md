@@ -1,5 +1,8 @@
 Hongik Lunch
 ===
+
+[썸네일](./imgs/thumbnail.jpg)
+
 **This project is Vibe Coded. Only God and Gemini knows how this works.**
 
 비주얼베이직 매크로로 파워포인트 상자에 오늘 점심을 기입합니다.
@@ -21,9 +24,9 @@ VBAProject에 우클릭 -> 삽입 -> 모듈
 코드 복붙
 
 ### 3. 상자
-상자 그리고 
+상자 그리기
 
-홈 -> 선택 -> 선택 창(P) 으로 상자 선택
+홈 -> 선택 -> 선택 창 으로 상자 선택
 
 이름 **MenuBox** 로 설정
 
